@@ -1,0 +1,28 @@
+
+# dependencies
+/node_modules
+
+# Next.js build output
+/.next
+/out
+
+# production build
+/dist
+/dist-ssr
+
+# system files
+.DS_Store
+*.log
+*.local
+
+# editor
+.vscode/*
+!.vscode/extensions.json
+.idea
+
+# env files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
